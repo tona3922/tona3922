@@ -6,7 +6,7 @@ I am Toan but you can call me Tommy as my nickname
 - My skill 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,cpp,mysql,html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=react,js,cpp,mysql,html,css,sass,py,r" />
   </a>
 </p>
 <!--
