@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I am Toan but you can call me Tommy as my nickname
-- 🔭 I’m currently working on several software products and seek a way to master all of it
-- 🌱 I’m currently learning software engineering and database as well
+- 🔭 I’m currently working on several software products and seeking a way to master all of it
+- 🌱 I’m also learning in database as well
 - 📫 How to reach me: vothaitoan12@gmail.com
 - My skill 
 <p align="center">
