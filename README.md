@@ -15,3 +15,6 @@ I am Toan but you can call me Tommy as my nickname
 Here are some ideas to get you started:
 
 -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Tommy&label=Profile%20Views&color=4&icon=0&pretty=false" />
+</a>
