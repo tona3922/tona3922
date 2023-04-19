@@ -4,19 +4,19 @@ I am Toan but you can call me Tommy as my nickname
 - 🌱 I’m also learning in database as well
 - 📫 How to reach me: vothaitoan12@gmail.com
 - My skill 
-+ FrontEnd :
+<h2>FrontEnd</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,mui,html,css,sass,redux,bootstrap" />
   </a>
 </p>
-+ BackEnd :
+<h2>BackEnd</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
   </a>
 </p>
-+ Other :
+<h2>Others</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,py,r,git" />
