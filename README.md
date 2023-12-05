@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Toan, a student at HCMUT with a great love of developing beautiful UI and helpful projects
+I am Toan, a student at HCMUT with a great love of creating modern and beautiful UI , also enhance its effiency too.
 - 🔭 I’m currently working on FrontEnd in several software projects and seeking a way to master BackEnd too.
 - 🌱 I also enjoy in practicing with database as well since its huge benefits pay off.
 - 👯 I’m looking to collaborate on with any incorpation or individuals share the same passion in implementing projects with me, so welcome guys !!!
