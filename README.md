@@ -9,19 +9,19 @@ I am Toan, a student at HCMUT with a great love of creating modern and beautiful
 <h2>FrontEnd</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,mui,html,css,sass,redux,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,js,mui,html,css,sass,redux,bootstrap,nextjs" />
   </a>
 </p>
 <h2>BackEnd</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,nestjs" />
   </a>
 </p>
 <h2>Others</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,py,r,git" />
+    <img src="https://skillicons.dev/icons?i=figma,py,r,git,jest,cypress" />
   </a>
 </p>
 
