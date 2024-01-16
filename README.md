@@ -9,7 +9,7 @@ I am Toan, a student at HCMUT with a great love of creating modern and beautiful
 <h2>FrontEnd</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,mui,html,css,sass,redux,bootstrap,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,js,mui,html,css,sass,redux,bootstrap,nextjs,angular,typeorm" />
   </a>
 </p>
 <h2>BackEnd</h2>
@@ -21,7 +21,7 @@ I am Toan, a student at HCMUT with a great love of creating modern and beautiful
 <h2>Others</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,py,r,git,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=figma,py,r,git,jest" />
   </a>
 </p>
 
