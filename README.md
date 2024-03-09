@@ -1,29 +1,10 @@
 ### Hi there 👋 
-I am Toan, a student at HCMUT with a great love of creating modern and beautiful UI , also enhance its effiency too.
-- 🔭 I’m currently working on FrontEnd in several software projects and seeking a way to master BackEnd too.
-- 🌱 I also enjoy in practicing with database as well since its huge benefits pay off.
+I am Toan, a senior student at HCMUT with passionate in software development
+- 🔭 I’m currently working on FullStack Projects (mainly focused on Backend)
+- 🌱 I also enjoy practicing with data as well since its huge benefits pay off.
 - 👯 I’m looking to collaborate on with any incorpation or individuals share the same passion in implementing projects with me, so welcome guys !!!
 - 👨‍💻 All of my projects are available at https://github.com/tona3922
 - 📫 How to reach me: vothaitoan12@gmail.com
-- My skill 
-<h2>FrontEnd</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,mui,html,css,sass,redux,bootstrap,nextjs,angular,typeorm" />
-  </a>
-</p>
-<h2>BackEnd</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,nestjs" />
-  </a>
-</p>
-<h2>Others</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,py,r,git,jest" />
-  </a>
-</p>
 
 
 <a href="https://visitcount.itsvg.in">
