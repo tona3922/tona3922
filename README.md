@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hello 👋 
 I am Toan, a senior student at HCMUT with passionate in software development
 - 🔭 I’m currently working on FullStack Projects (mainly focused on Backend)
 - 🌱 I also enjoy practicing with data as well since its huge benefits pay off.
