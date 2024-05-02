@@ -1,8 +1,8 @@
 ### Hello 👋 
-I am Toan, a senior student at HCMUT with passionate in software development
-- 🔭 I’m currently working on FullStack Projects (mainly focused on Backend)
-- 🌱 I also enjoy practicing with data as well since its huge benefits pay off.
-- 👯 I’m looking to collaborate on with any incorpation or individuals share the same passion in implementing projects with me, so welcome guys !!!
+My name is Toan, and I'm a senior student at HCMUT with a deep passion for software development
+- 🔭 Currently focusing on Full stack Projects, with a particular emphasis on backend development
+- 🌱 Also love exploring data and AI
+- 👯 I'm always on the lookout for opportunities to collaborate with other individuals or organizations who share my enthusiasm for bringing projects to life, so welcome guys !!!
 - 👨‍💻 All of my projects are available at https://github.com/tona3922
 - 📫 How to reach me: vothaitoan12@gmail.com
 
