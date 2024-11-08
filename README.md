@@ -1,6 +1,6 @@
 ### Hello 👋 
 I am Toan, a newbie software engineer
-- 🔭 Currently working on Full-stack Projects, with a deep passinate for backend development
+- 🔭 Currently working on serveral projects, with a deep passinate for backend technology
 - 🌱 Also love exploring data and AI
 - 👨‍💻 All of my projects are available at https://github.com/tona3922
 - 📫 How to reach me: vothaitoan12@gmail.com
