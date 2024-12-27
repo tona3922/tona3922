@@ -1,6 +1,6 @@
 ### Hello 👋 
 I am Toan, a software engineer
-- 🔭 Currently working on serveral projects, with a deep passinate for backend technology and architect
+- 🔭 Currently working on serveral projects, with a huge passionate for backend technology and architect
 - 🌱 Also love working with data
 - 👨‍💻 All of my projects are available at https://github.com/tona3922
 - 📫 How to reach me: vothaitoan12@gmail.com
