@@ -1,9 +1,5 @@
 ### Hello 👋 
-I am Toan, a software engineer
-- 🔭 Currently working on serveral projects, with a huge passionate for backend technology and architect
-- 🌱 Also love working with data
-- 👨‍💻 All of my projects are available at https://github.com/tona3922
-- 📫 How to reach me: vothaitoan12@gmail.com
+I am Toan, a software engineer based in Ho Chi Minh City, Viet Nam. Deep passionate on learning new things, working on side projects on my free time as well.
 
 
 <a href="https://visitcount.itsvg.in">
